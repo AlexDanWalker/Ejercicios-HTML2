@@ -15,7 +15,7 @@ mi-sitio-web/
 - about.html       # Página secundaria (Acerca de mí)
 
 ### Cómo usar
-1. Descarga o crea los archivos index.html y about.html en la misma carpeta.
+1. Descarga o crea los archivos index.html y about.html en la misma carpeta. (Ver Estructura de proyecto para referencia.)
 
 2. Abre index.html en tu navegador web haciendo doble clic.
 
